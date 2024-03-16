@@ -3,7 +3,7 @@
 
 # Introduction :
 ###
-In this project, there are six different developers and one manager. The manager assigns tasks to all six developers, and by using this approach, I try to understand these commands.
+In this project, there are four different developers and one manager. The manager assigns tasks to all six developers, and by using this approach, I try to understand these commands.
 
 Now, let's take a look at some commands:
 
